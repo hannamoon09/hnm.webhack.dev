@@ -11,3 +11,10 @@
 ![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=hannamoon)
 
 ::github{repo="hannamoon09/hnm.webhack.dev"}
+
+```markdown
+Contact
+
+email: dgiouejbv@gmail.com
+discord: hannamoon09
+```
